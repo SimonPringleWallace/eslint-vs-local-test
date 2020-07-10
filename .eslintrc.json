@@ -1,0 +1,6 @@
+{
+	"rules": {
+		"no-debugger": "error",
+		"prefer-const":  "error"
+	}
+}
