@@ -1,6 +1,9 @@
 {
+	"parserOptions": {
+		"ecmaVersion": 6
+	},
 	"rules": {
 		"no-debugger": "error",
-		"prefer-const":  "error"
+		"prefer-const": "error"
 	}
 }
